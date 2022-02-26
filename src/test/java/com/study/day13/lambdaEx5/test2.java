@@ -51,7 +51,6 @@ class student2 implements Comparable<student2>{
 }
 public class test2 {
 	public static void main(String[] args) {
-//		Map<student1, student2> map1 = new HashMap<>();
 		List<student1> list1 = Arrays.asList(new student1("James", 100),
 											 new student1("John", 60), 
 											 new student1("Mary", 80));		
